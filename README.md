@@ -15,10 +15,8 @@ The one-stage RetinaNet network architecture uses a Feature Pyramid Network (FPN
 
 1. Install [tensorflow](https://github.com/tensorflow/tensorflow) as per your system requirements.
 
-2. a.Install [keras-retinanet](https://github.com/fizyr/keras-retinanet) a Keras implementation of RetinaNet object detection.
-<br>
-OR
-<br>
+2. a. Install [keras-retinanet](https://github.com/fizyr/keras-retinanet) a Keras implementation of RetinaNet object detection.<br>
+OR<br>
 b. Install [Mask_RCNN](https://github.com/matterport/Mask_RCNN) an implementation of Mask R-CNN on Python 3, Keras, and TensorFlow.
 
 ### YOLT/SIMRDWN for object detection (2nd Approach)
@@ -26,10 +24,8 @@ YOLT is an extension of the YOLO v2 framework that can evaluate satellite images
 
 1. Install [tensorflow](https://github.com/tensorflow/tensorflow) as per your system requirements.
 
-2. a.Install [simrdwn](https://github.com/CosmiQ/simrdwn) a rapid satellite imagery object detection framework.
-<br>
-OR
-<br>
+2. a. Install [simrdwn](https://github.com/CosmiQ/simrdwn) a rapid satellite imagery object detection framework.<br>
+OR<br>
 b. Install [yolt](https://github.com/CosmiQ/yolt) a framework for Rapid Multi-Scale Object Detection In Satellite Imagery.
 
 
